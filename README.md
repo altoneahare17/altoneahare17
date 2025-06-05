@@ -1,6 +1,6 @@
 👋 Hi, I’m @altoneahare17
 
-👩‍💻 Full Stack Development Student at SheCodes, IT Varsity and FreeCodeCamp
+👩‍💻 Full Stack Development Student at <a href="https://www.shecodes.io">SheCodes</a>, <a href="https://itvarsity.org">IT Varsity</a> and <a href="https://www.freecodecamp.org">FreeCodeCamp</a>
 
 💻 I create projects and study coding on a daily to stay consistent and gain more knowledge
 

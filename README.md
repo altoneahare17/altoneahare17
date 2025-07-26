@@ -12,3 +12,5 @@
 😄 Pronouns: she/her
 
 💅🏽I AM DEFINITELY A GIRL IN TECH 
+
+🇿🇦 South African

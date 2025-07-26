@@ -2,7 +2,7 @@
 
 📜 I am a Certified Full Stack Developer, I got certified through <a href="https://itvarsity.org">IT Varsity</a>
 
-👩‍💻 Full Stack Development Student at <a href="https://www.shecodes.io">SheCodes</a> and <a href="https://www.freecodecamp.org">FreeCodeCamp</a>
+👩‍💻 Full Stack Development Student at <a href="https://www.shecodes.io">SheCodes</a>, <a href="https://www.theodinproject.com">The Odin Project</a> and <a href="https://www.freecodecamp.org">FreeCodeCamp</a>
 
 💻 I create projects and study coding on a daily to stay consistent and gain more knowledge
 

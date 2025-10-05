@@ -1,16 +1,63 @@
-👋 Hi, I’m @altoneahare17
+# Hi there 👋, I'm Altonea “Alto” Hare
 
-📜 I am a Certified Full Stack Developer, I got certified through <a href="https://itvarsity.org">IT Varsity</a>
+💻 **Entry-Level Full Stack Developer** | 🎓 Certified in Full Stack Development  
+🌍 Based in South Africa | ✨ Passionate about building responsive, user-friendly web apps  
+💜 Proudly a Girl in Tech  
 
-👩‍💻 Full Stack Development Student at <a href="https://www.shecodes.io">SheCodes</a>, <a href="https://www.theodinproject.com">The Odin Project</a> and <a href="https://www.freecodecamp.org">FreeCodeCamp</a>
+---
 
-💻 I create projects and study coding on a daily to stay consistent and gain more knowledge
+## 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-📫 How to reach me : 
-   Email: altoneahare17@icloud.com
+---
 
-😄 Pronouns: she/her
+## 🌟 Featured Projects
+Here are some of my favorite projects 👇 (more in my repos!)
 
-💅🏽I AM DEFINITELY A GIRL IN TECH 
+### 🔹 [My Responsive Portfolio](https://github.com/altoneahare17/my_responsive_portfolio)
+🌐 A personal portfolio website built with HTML, CSS, and JavaScript.  
+- Fully responsive  
+- Smooth UI with modern design  
 
-🇿🇦 South African
+### 🔹 [Calculator](https://github.com/altoneahare17/Calculator)
+🧮 A clean JavaScript calculator for basic operations.  
+- Built with HTML, CSS, and JS  
+- Great example of DOM manipulation  
+
+### 🔹 [Interactive Particle Animation](https://github.com/altoneahare17/interactive_particle_animation)
+✨ Fun experiment with JS animations and HTML canvas.  
+
+### 🔹 [CompuKids](https://github.com/altoneahare17/CompuKids)
+🎓 A kid-friendly learning site with simple HTML & CSS design.  
+
+---
+
+## 📊 GitHub Stats
+![Altonea’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=altoneahare17&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altoneahare17&layout=compact&theme=radical)  
+
+---
+
+## 🎓 Certifications
+- IT Varsity (ICT Fundamentals)  
+- FreeCodeCamp  
+- The Odin Project  
+
+---
+
+## 📫 Connect with Me
+📧 Email: **altoneahare17@icloud.com**  
+          **altoneahare02@icloud.com**
+🔗 LinkedIn:   www.linkedin.com/in/altonea-hare-1a2bb7270c
+🌐 Portfolio: [Add portfolio link once hosted]  
+
+---
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_
+

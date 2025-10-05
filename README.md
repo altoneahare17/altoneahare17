@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Altonea “Alto” Hare
+# Hi there 👋, I'm Altonea “Tonea” Hare
 
 💻 **Entry-Level Full Stack Developer** | 🎓 Certified in Full Stack Development  
 🌍 Based in South Africa | ✨ Passionate about building responsive, user-friendly web apps  

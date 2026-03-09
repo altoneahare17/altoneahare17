@@ -41,12 +41,6 @@ Here are some of my favorite projects 👇 (more in my repos!)
 
 ---
 
-## 📊 GitHub Stats
-![Altonea’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=altoneahare17&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altoneahare17&layout=compact&theme=radical)  
-
----
-
 ## 🎓 Certifications
 -  Python Essentials 1 & 2 - Cisco Networking Academy
 -  JavaScript Essentials 1 & 2 - Cisco Networking Academy

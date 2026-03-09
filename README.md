@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Altonea “Tonea” Hare
 
-💻 **Entry-Level Full Stack Developer** | 🎓 Certified in Full Stack Development | 🖥️ Computer Technician 
+💻 **Entry-Level Full Stack Developer** | 🎓 Certified in Full Stack Development | 🖥️ Computer Technician |
 🌍 Based in South Africa | ✨ Passionate about building responsive, user-friendly web apps  
 💜 Proudly a Girl in Tech  
 

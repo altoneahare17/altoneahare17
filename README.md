@@ -42,6 +42,7 @@ Here are some of my favorite projects 👇 (more in my repos!)
 ---
 
 ## 🎓 Certifications
+-  Fundamentals of ICT - Boston City Campus
 -  Python Essentials 1 & 2 - Cisco Networking Academy
 -  JavaScript Essentials 1 & 2 - Cisco Networking Academy
 -  Introduction to Web Development Basics Add-On - SheCodes

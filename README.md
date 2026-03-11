@@ -46,7 +46,7 @@ Here are some of my favorite projects 👇 (more in my repos!)
 -  Python Essentials 1 & 2 - Cisco Networking Academy
 -  JavaScript Essentials 1 & 2 - Cisco Networking Academy
 -  Introduction to Web Development Basics Add-On - SheCodes
--  Introduction to Web Development Basics - SheCodes
+-  Introduction to Coding Basics - SheCodes
 -  CSS Essentials - Cisco Networking Academy
 -  HTML Essentials - Cisco Networking Academy
 -  UX Design Introduction Job Simulation - Forage
